@@ -1,0 +1,74 @@
+Redis Proxy Commercial License
+
+Version 1.0
+
+Effective Date: 11th of Aug 2024
+
+Copyright (c) 2024 Dmitry Kryuchkov. All rights reserved.
+
+1. Definitions
+
+1.1. "Software" refers to the Redis proxy for containers provided by Dmitry Kryuchkov, including all associated documentation, files, and modifications.
+
+1.2. "User" refers to any individual or entity that obtains a copy of the Software.
+
+1.3. "Concurrent Client Connections" refers to the number of simultaneous active client connections to the Software at any given time.
+
+1.4. "Commercial Use" refers to any use of the Software for commercial purposes, including, but not limited to, internal business operations, offering services to third parties, or any use intended for commercial advantage or monetary compensation.
+
+2. Grant of License
+
+2.1. Subject to the terms and conditions of this License Agreement, the copyright holder hereby grants the User a non-exclusive, non-transferable, and non-sublicensable license to use, copy, modify, and distribute the Software, subject to the following conditions.
+
+2.2. Connection Limit: The Software may be used with a maximum of 5 Concurrent Client Connections. For use with more than 5 Concurrent Client Connections, the User must obtain a commercial license by contacting the copyright holder at kryuchkov@hotmail.com.
+
+2.3. Commercial Use: The Software may be used for Commercial Use, provided that the number of Concurrent Client Connections does not exceed 5. Any use beyond this limit requires a commercial license.
+
+2.4. Prohibited Uses: The User shall not:
+- Sell, rent, lease, sublicense, or distribute the Software or any derivative works thereof, except as expressly permitted by this License or by a commercial license agreement with the copyright holder.
+- Use the Software in any manner that violates applicable laws or regulations.
+
+3. Distribution and Modification
+
+3.1. Distribution: Users may distribute copies of the Software, including modifications, provided that:
+- The above copyright notice, this License Agreement, and any disclaimers are included in all copies or substantial portions of the Software.
+- The distribution does not exceed the 5 Concurrent Client Connections limit unless a commercial license has been obtained.
+
+3.2. Modifications: Users may create derivative works based on the Software. However, any derivative works are also subject to this License Agreement, including the Connection Limit and Commercial Use restrictions.
+
+3.3. Attribution: Users must give appropriate credit, provide a link to the original license, and indicate if changes were made. Attribution should not suggest endorsement by the copyright holder.
+
+4. Commercial Licensing
+
+4.1. Requirement: Users who wish to use the Software with more than 5 Concurrent Client Connections, or who wish to sell or sublicense the Software or derivative works, must obtain a commercial license by contacting the copyright holder at kryuchkov@hotmail.com.
+
+4.2. Negotiation: The terms of the commercial license, including but not limited to fees, royalties, and usage rights, shall be determined through negotiation with the copyright holder.
+
+5. Disclaimer of Warranties and Limitation of Liability
+
+5.1. Disclaimer: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+5.2. Limitation of Liability: IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+6. Termination
+
+6.1. This License Agreement will automatically terminate if the User fails to comply with any of the terms and conditions herein. Upon termination, the User must cease all use and distribution of the Software and destroy all copies in their possession.
+
+6.2. Termination does not limit any other rights or remedies that the copyright holder may have under law or equity.
+
+7. Governing Law
+
+This License Agreement shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of law principles.
+
+8. Entire Agreement
+
+This License Agreement constitutes the entire agreement between the User and the copyright holder with respect to the Software and supersedes all prior or contemporaneous understandings regarding such subject matter. Any modifications to this License Agreement must be made in writing and signed by both parties.
+
+Contact Information
+
+For any inquiries, including requests for commercial licenses, please contact:
+
+Dmitry Kryuchkov
+Email: kryuchkov@hotmail.com
+
+END OF LICENSE AGREEMENT
